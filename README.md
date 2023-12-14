@@ -7,8 +7,11 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <hr>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JungHanLeee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
+
 <!--
 **JungHanLeee/JungHanLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
